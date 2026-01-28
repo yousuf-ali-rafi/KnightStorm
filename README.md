@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yousuf Ali Rafi</h2>
-<p align="center"><em>Security Enthusist and Bug bounty Hunter and H4cker.    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
+<p align="center"><em>Web Developer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
 
 <p>
  I am a Computer Engineer who is currently studying from International Standard University, who has a keen interest in Penetration Testing and who enjoy doing Bug bounties.
