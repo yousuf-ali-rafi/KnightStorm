@@ -1,37 +1,96 @@
 <h2 align="center">Hi 👋, I'm Yousuf Ali Rafi</h2>
 <p align="center"><em>Web Developer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
 
-<p>
- I am a Computer Engineer who is currently studying from International Standard University, who has a keen interest in Penetration Testing and who enjoy doing Bug bounties.
+# 👋 Hi, I'm Md Yousuf Ali Rafi
 
-Coming to the practical implementation, I love Coding and making YAML scripts to automate processes that take lots of time while pentesting Web Applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts.</p>
- 
+🎓 Master’s Student in Information Systems Software Engineering  
+📍 Vilnius, Lithuania  
+💼 Aspiring IT Support Specialist | Digital Workplace Enthusiast  
 
-*************
-
- 
-### My profiles & Contacts
-- 🔰 [Hackerone](https://hackerone.com/yousuf_ali_rafi)
-- 🔰 [BugCrowd](https://bugcrowd.com/yousuf_ali_rafi)
-- 🔰 [Intigriti](https://app.intigriti.com/profile/yousuf_ali_rafi)
- 
-
-*************
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yousufalirafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousufalirafi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yousuf_ali_rafi) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KnightStorm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KnightStorm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightStorm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
- 
 ---
-[![](https://visitcount.itsvg.in/api?id=KnightStorm&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+I am a Master’s student with a strong interest in IT Support and Digital Workplace environments.  
+Through academic projects and a self-managed home lab, I have developed practical exposure to Windows systems, user access management, and structured troubleshooting.
+
+I am motivated to build a career in 1st Line IT Support, focusing on reliable service delivery, clear communication, and user-focused problem resolution.
+
+---
+
+## 🛠 Technical Skills
+
+**Operating Systems**
+- Windows 10/11
+- Windows Server
+- Ubuntu Linux
+
+**User & Access Management**
+- Active Directory (account creation, permissions, group management)
+
+**Cloud & Productivity**
+- Microsoft 365
+- MS Office Suite
+
+**Networking Fundamentals**
+- TCP/IP
+- DNS / DHCP basics
+- Basic router & switch configuration
+
+**Other Knowledge**
+- MySQL / MS SQL Server
+- PHP (Laravel), C, C++, Java
+- HTML, CSS
+
+---
+
+## 🧪 Practical Experience
+
+### 🖥 Home IT Lab Environment
+- Built a small domain-based environment to simulate enterprise user scenarios
+- Managed user accounts, access permissions, and shared resources
+- Practiced resolving login, access, and connectivity issues
+- Performed system updates and service validation
+
+### 🎤 IT Event Support – University Tech Fest
+- Assisted users with technical disruptions during live events
+- Prepared and tested endpoint devices
+- Worked in a team to maintain smooth IT operations
+
+---
+
+## 🎓 Education
+
+**M.Sc in Information Systems Software Engineering**  
+Vilnius Gediminas Technical University (2025 – 2027)
+
+**B.Sc in Computer Science & Engineering**  
+International Standard University (2020 – 2024)  
+CGPA: 3.61 / 4.00
+
+---
+
+## 📜 Certifications
+
+- Cyber Security Course – Arena Web Security (2021)
+- National Cyber Drill Competition – BGD e-GOV CIRT (2021)
+- Building GenAI Applications – MongoDB (2025)
+
+---
+
+## 🌍 Languages
+
+- English – Fluent  
+- Lithuanian – Beginner  
+- Bengali – Native  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: mdyousufalirafi@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/yousuf-ali-rafi  
+
+---
+
+> “Focused on structured problem-solving, reliable service, and continuous learning.”
