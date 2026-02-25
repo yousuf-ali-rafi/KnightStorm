@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Yousuf Ali Rafi</h2>
-<p align="center"><em>Web Developer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
+<h2 align="center"></h2>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
 
 # 👋 Hi, I'm Md Yousuf Ali Rafi
 
