@@ -1,61 +1,74 @@
 <h2 align="center"></h2>
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</p>
 
 # 👋 Hi, I'm Md Yousuf Ali Rafi
 
 🎓 Master’s Student in Information Systems Software Engineering  
 📍 Vilnius, Lithuania  
-💼 Aspiring IT Support Specialist | Digital Workplace Enthusiast  
+💻 Aspiring Backend Developer | Java & Spring Boot Enthusiast  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Master’s student with a strong interest in IT Support and Digital Workplace environments.  
-Through academic projects and a self-managed home lab, I have developed practical exposure to Windows systems, user access management, and structured troubleshooting.
+I am a Master’s student in Information Systems Software Engineering with a strong interest in backend and web development. I enjoy building scalable backend systems, designing RESTful APIs, and writing clean and maintainable code.
 
-I am motivated to build a career in 1st Line IT Support, focusing on reliable service delivery, clear communication, and user-focused problem resolution.
+Currently, I am working on a **Rental Management System** with a small development team using **Java, Spring Boot, SQL, and React**. Through academic projects and self-learning, I continue improving my skills in modern software development practices and backend architecture.
+
+My goal is to grow as a **Java backend developer** and contribute to building reliable and efficient web applications.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Operating Systems**
-- Windows 10/11
-- Windows Server
-- Ubuntu Linux
+### Programming Languages
+- Java
+- C
+- C++
 
-**User & Access Management**
-- Active Directory (account creation, permissions, group management)
+### Backend Development
+- Spring Boot (Learning)
+- RESTful API Development
 
-**Cloud & Productivity**
-- Microsoft 365
-- MS Office Suite
+### Frontend
+- React (Learning)
+- HTML
+- CSS
 
-**Networking Fundamentals**
-- TCP/IP
-- DNS / DHCP basics
-- Basic router & switch configuration
+### Databases
+- MySQL
+- SQL
 
-**Other Knowledge**
-- MySQL / MS SQL Server
-- PHP (Laravel), C, C++, Java
-- HTML, CSS
+### Tools
+- Git
+- GitHub
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- API Design
+- Authentication Basics
 
 ---
 
-## 🧪 Practical Experience
+## 🚀 Projects
 
-### 🖥 Home IT Lab Environment
-- Built a small domain-based environment to simulate enterprise user scenarios
-- Managed user accounts, access permissions, and shared resources
-- Practiced resolving login, access, and connectivity issues
-- Performed system updates and service validation
+### 🏠 Rental Management System (Team Project)
+- Developing a rental management platform for property listings and bookings  
+- Building backend services using **Java and Spring Boot**  
+- Designing **RESTful APIs** for property management and user interaction  
+- Implementing **database operations using SQL**  
+- Collaborating with team members on full-stack development with **React**
 
-### 🎤 IT Event Support – University Tech Fest
-- Assisted users with technical disruptions during live events
-- Prepared and tested endpoint devices
-- Worked in a team to maintain smooth IT operations
+### 📚 Library Management System
+- Designed a relational database structure to manage library records  
+- Implemented **CRUD operations** and optimized database queries  
+- Practiced structured database design and SQL query handling  
+
+### 🌐 Laravel Web Application
+- Developed a basic web application using **MVC architecture**  
+- Integrated backend logic with database functionality  
 
 ---
 
@@ -66,15 +79,15 @@ Vilnius Gediminas Technical University (2025 – 2027)
 
 **B.Sc in Computer Science & Engineering**  
 International Standard University (2020 – 2024)  
-CGPA: 3.61 / 4.00
+CGPA: **3.61 / 4.00**
 
 ---
 
 ## 📜 Certifications
 
-- Cyber Security Course – Arena Web Security (2021)
-- National Cyber Drill Competition – BGD e-GOV CIRT (2021)
-- Building GenAI Applications – MongoDB (2025)
+- Cyber Security Course – Arena Web Security (2021)  
+- National Cyber Drill Competition Participant – BGD e-GOV CIRT (2021)  
+- Research Poster Presentation Award – 2nd Runner-up (2023)  
 
 ---
 
@@ -88,9 +101,9 @@ CGPA: 3.61 / 4.00
 
 ## 📫 Contact Me
 
-📧 Email: mdyousufalirafi@gmail.com  
+📧 Email: **mdyousufalirafi@gmail.com**  
 🔗 LinkedIn: https://linkedin.com/in/yousuf-ali-rafi  
 
 ---
 
-> “Focused on structured problem-solving, reliable service, and continuous learning.”
+> “Passionate about building backend systems, designing clean APIs, and continuously learning modern software development.”
